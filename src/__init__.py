@@ -1,0 +1,1 @@
+# Package initializer for FreightTiger shipping cost assistant
